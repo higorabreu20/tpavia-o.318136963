@@ -1,0 +1,7 @@
+C:\Users\318136963\Desktop\tpaviação\tpaviação\obj\Debug\tpaviação.csprojAssemblyReference.cache
+C:\Users\318136963\Desktop\tpaviação\tpaviação\obj\Debug\tpaviação.csproj.CoreCompileInputs.cache
+C:\Users\318136963\Desktop\tpaviação\tpaviação\bin\Debug\tpaviação.exe.config
+C:\Users\318136963\Desktop\tpaviação\tpaviação\bin\Debug\tpaviação.exe
+C:\Users\318136963\Desktop\tpaviação\tpaviação\bin\Debug\tpaviação.pdb
+C:\Users\318136963\Desktop\tpaviação\tpaviação\obj\Debug\tpaviação.exe
+C:\Users\318136963\Desktop\tpaviação\tpaviação\obj\Debug\tpaviação.pdb
